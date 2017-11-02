@@ -1,4 +1,5 @@
 Found a patch in old google archives for the plan9 clock to run on linux.<br>
+Just took the plan9 mkfile and it compiled fine.<br>
 Compile it like this
 
 ```
